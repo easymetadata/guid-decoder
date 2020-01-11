@@ -4,6 +4,12 @@ using System.Text;
 
 namespace guid_decode
 {
+    // Derived from FluentCassandra
+    // https://gist.github.com/nberardi/3759706
+    // https://github.com/fluentcassandra/fluentcassandra/blob/master/src/GuidGenerator.cs
+    //
+    // fluentcassandra/fluentcassandra is licensed under the
+    // Apache License 2.0
 
     /// <summary>
     /// Used for generating UUID based on RFC 4122.
