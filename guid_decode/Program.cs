@@ -1,5 +1,4 @@
 ﻿using System;
-using Cassandra;
 
 namespace guid_decode
 {

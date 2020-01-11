@@ -20,3 +20,13 @@ C:\Users\ddym\Dropbox\CodingProjects\guid_decode\guid_decode\obj\Debug\netcoreap
 C:\Users\ddym\Dropbox\CodingProjects\guid_decode\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.AssemblyInfo.cs
 C:\Users\ddym\Dropbox\CodingProjects\guid_decode\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.dll
 C:\Users\ddym\Dropbox\CodingProjects\guid_decode\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.pdb
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\bin\Debug\netcoreapp2.1\guid_decode.deps.json
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\bin\Debug\netcoreapp2.1\guid_decode.runtimeconfig.json
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\bin\Debug\netcoreapp2.1\guid_decode.runtimeconfig.dev.json
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\bin\Debug\netcoreapp2.1\guid_decode.dll
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\bin\Debug\netcoreapp2.1\guid_decode.pdb
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.csproj.CoreCompileInputs.cache
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.AssemblyInfoInputs.cache
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.AssemblyInfo.cs
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.dll
+D:\ddym\Dropbox\CodingProjects\GitHub\guid_decoder\guid_decode\obj\Debug\netcoreapp2.1\guid_decode.pdb
