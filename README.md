@@ -1,2 +1,2 @@
 # guid-decoder
-decode guids 
+decode guids and test guid/uuid type
